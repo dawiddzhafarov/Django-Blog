@@ -4,10 +4,10 @@ in the near future.
 ## What can you do in the app?
 -create an account, log in  
 -update profile information, add profile photo  
--add, update, delete posts
--view other users posts
+-add, update, delete posts  
+-view other users posts  
 
 # Ideas:
--adding pictures to posts
--adding profile page with more user information
+-adding pictures to posts  
+-adding profile page with more user information  
 
